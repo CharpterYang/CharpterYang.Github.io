@@ -32,7 +32,7 @@ Group leader | Culture Group
 - Cantonese Class (Preparation and teaching) and School Singing Competitions (Coordination).
 
 ### Taiwan Digital Creative Camp | Jul 2018 - Aug 2018 | Taipei
-Group leader|Want Want Media Group
+Group leader | Want Want Media Group
 - Taught by professionals, learning how to create and ideas and conducting advertising competition.
 - Have learned a better way to deal with pressure and communicate when different opinions occurs.
 
