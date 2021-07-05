@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## EDUCATION
 
-You can use the [editor on GitHub](https://github.com/CharpterYang/CharpterYang.Github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### Hokkaido University | Apr 2020 - Feb 2023 | Sapporo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+International Media and Communication Studies | Master | IMCTS. 
 
-### Markdown
+- Related courses: Social Research Methods, Information Strategy, Computational Linguistics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Communication University of China | Sep 2016 - Jul 2020 | Beijing
 
-```markdown
-Syntax highlighted code block
+AD/PR | Bachelor | Faculty of International Media
 
-# Header 1
-## Header 2
-### Header 3
+- GPA：3.64/4.00
+- Related courses: Introduction to Advertising, Advertising planning, New Media Overseas Operation, Marketing, Global Advertising/PR, Study of Advertising Strategy, Lens language and application
+- Honors： The 3rd price of 2018 National Advertising Competition for College, The Outstanding Public Welfare Award of 2017 “Shenzhen University Entrepreneurship Competition
 
-- Bulleted
-- List
+## PROFESSIONAL EXPERIENCE
 
-1. Numbered
-2. List
+#### Beijing Dentsu Advertising | Mar 2019 - Jul 2019 | Beijing
 
-**Bold** and _Italic_ and `Code` text
+Media intern | International Business Group-4
 
-[Link](url) and ![Image](src)
-```
+Worked with the team for different clients, including marketing plan comparison, marketing analysis, media analysis, public opinion monitoring, etc. Participated and witnessed the successful launch of different projects and gained a better understanding of analyzing marketing and media. Specific cases：
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Dongfeng Honda (Competitive impression survey, Production of media placement).
+- Beijing Hyundai (Annual marketing plan planning, PPT production and layout).
+- New Energy Vehicle Survey Report (Analysis of new energy vehicles, Data mining and analysis of media placement using iResearch), etc.
 
-### Jekyll Themes
+#### Foshan Radio Station FM90.1 | Jul 2017 - Aug 2017 | Foshan
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharpterYang/CharpterYang.Github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Operating intern | Business department
 
-### Support or Contact
+- WeChat Official Account(From topic selection to publication).
+- Shunde Chef Competition (Event copywriting, Event ruling and Photography), etc.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## SOCIAL EXPERIENCE
+
+#### Beijing Dentsu Advertising | Nov 2016 - Jun 2019 | Beijing
+
+Group leader | Culture Group
+
+- Cantonese Class (Preparation and teaching) and School Singing Competitions (Coordination).
+
+#### Taiwan Digital Creative Camp | Jul 2018 - Aug 2018 | Taipei
+
+Group leader | Want Want Media Group
+
+- Taught by professionals, learning how to create and ideas and conducting advertising competition.
+- Have learned a better way to deal with pressure and communicate when different opinions occurs.
+
+## SKILLS & CERTIFICATIONS
+
+- Skills: SPSS, PR, OFFICE.
+- Languages: CET-6 (550), TOFEL (88), N1 (108).
+- Interests: Language communication, fashion trend, baseball, badmintons.
